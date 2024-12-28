@@ -4,7 +4,7 @@ I've started learning scheme thanks to Mikey. I really appreciate his willingnes
 I have already read the first 70 pages, but figured it was a good time to come back and take a few notes and reflect on what I've learned so far.
 
 ### The Little Schemer
-My source for learning (Thanks Mikey)
+My source for learning (Thanks Mikey!)
 
 ### commandments
 There are ten commandments of scheme.
